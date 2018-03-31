@@ -10,5 +10,6 @@ package myPack;
  * @author DAT
  */
 public class Account {
-    
+   int i;
+
 }
