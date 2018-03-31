@@ -10,5 +10,7 @@ package myPack;
  * @author DAT
  */
 public class Account {
-    
+    private String Name;
+    private String ID;
+    private String Phone;
 }
